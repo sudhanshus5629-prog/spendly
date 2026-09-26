@@ -2,7 +2,7 @@ import sqlite3
 
 from werkzeug.security import generate_password_hash
 
-DB_PATH = "expense_tracker.db"
+DB_PATH = "spendly.db"
 
 CATEGORIES = ["Food", "Transport", "Bills", "Health", "Entertainment", "Shopping", "Other"]
 
